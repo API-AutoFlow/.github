@@ -14,3 +14,12 @@
 ------
 
 👏 **Thank you for your stars, your issues, and your pull requests. We really love open source applications.** ❤️ 
+
+
+### Getting Help
+
+If you need help or something doesn't work, **ASK!!!**
+
+- Create an issue
+- Leave a message on [Slack channel](https://join.slack.com/t/interactorteam/shared_invite/zt-eqx0mnh0-BkZWPzmh3DUJSTYxAJHmqw)
+- Email support@interactor.com
