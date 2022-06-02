@@ -8,7 +8,7 @@
 
 🧩 **Solution** Sample and proof-of-concept (POC) solutions that users create and share
 
-⭐ **Verified** Verified by our experts. This sign indicates that it is ready for use
+⭐ **Verified** Verified by our experts. This sign indicates that it is been tested and for use
 
 
 ------
