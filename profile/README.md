@@ -1,12 +1,16 @@
-## Hi there 👋
+<h2 align="center"> API AutoFlow Configuration Open Source</h2>
 
-<!--
+### Icons
 
-**Here are some ideas to get you started:**
+🐾 **Templates**  Complete solutions that you can clone to quickly launch your application
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌐 **Vendor** Connectors and logic flows that are pre-configured so you can simply import and use
+
+🧩 **Solution** Sample and proof-of-concept (POC) solutions that users create and share
+
+⭐ **Verified** Verified by our experts. This sign indicates that it is ready for use
+
+
+------
+
+👏 **Thank you for your stars, your issues, and your pull requests. We really love open source applications.** ❤️ 
