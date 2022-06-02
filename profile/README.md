@@ -2,7 +2,7 @@
 
 ### Icons
 
-🐾 **Templates**  Complete solutions that you can clone to quickly launch your application
+🐾 **Templates**  A complete application that you can clone to quickly launch your service
 
 🌐 **Vendor** Connectors and logic flows that are pre-configured so you can simply import and use
 
